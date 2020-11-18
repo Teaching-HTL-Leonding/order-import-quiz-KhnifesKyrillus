@@ -14,8 +14,8 @@
         </e>
         <e p="customers.txt" t="Include" />
         <e p="Migrations" t="Include">
-          <e p="20201118134755_Initial.cs" t="Include" />
-          <e p="20201118134755_Initial.Designer.cs" t="Include" />
+          <e p="20201118165737_Initial.cs" t="Include" />
+          <e p="20201118165737_Initial.Designer.cs" t="Include" />
           <e p="OrderImportContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Model" t="Include">

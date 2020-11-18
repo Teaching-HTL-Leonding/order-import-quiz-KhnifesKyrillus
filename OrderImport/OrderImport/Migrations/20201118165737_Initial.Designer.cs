@@ -10,7 +10,7 @@ using OrderImport;
 namespace OrderImport.Migrations
 {
     [DbContext(typeof(OrderImportContext))]
-    [Migration("20201118134755_Initial")]
+    [Migration("20201118165737_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -49,9 +49,6 @@ namespace OrderImport.Migrations
                         .UseIdentityColumn();
 
                     b.Property<int>("CustomerId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Fk")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("OrderDate")

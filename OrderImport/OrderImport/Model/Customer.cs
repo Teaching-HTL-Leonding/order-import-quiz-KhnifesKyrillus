@@ -12,6 +12,6 @@ namespace OrderImport
 
         [Column(TypeName = "decimal(8,2)")] public decimal CreditLimit { get; set; }
 
-        public List<Order> Orders { get; set; } = new();
+        public List<Order>? Orders { get; set; } = new();
     }
 }
