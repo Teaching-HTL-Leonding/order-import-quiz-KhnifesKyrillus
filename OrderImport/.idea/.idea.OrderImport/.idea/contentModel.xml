@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\khnif\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\khnif\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_OrderImport.-1989320105.00" t="ExcludeRecursive" />
+    <e p="C:\Users\khnif\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\khnif\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\khnif\Documents\Schule\C#\order-import-quiz-KhnifesKyrillus\OrderImport" t="IncludeFlat">
+      <e p="OrderImport" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controller" t="Include">
+          <e p="Controller.cs" t="Include" />
+        </e>
+        <e p="customers.txt" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20201118134755_Initial.cs" t="Include" />
+          <e p="20201118134755_Initial.Designer.cs" t="Include" />
+          <e p="OrderImportContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Customer.cs" t="Include" />
+          <e p="Order.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="OrderImport.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderImport.csproj" t="IncludeRecursive" />
+        <e p="OrderImportContext.cs" t="Include" />
+        <e p="OrderImportContextFactory.cs" t="Include" />
+        <e p="orders.txt" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="OrderImport.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
